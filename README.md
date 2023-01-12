@@ -1,5 +1,5 @@
 # Pandas-Challenge
-In this assignment, I'll create and manipulate Pandas DataFrames to analyze school and standardized test data. I will also include a written description of at least two observable trends based on the data. This analysis will be found at the bottom of this Readme.
+In this assignment, I'll create and manipulate Pandas DataFrames to analyze school and standardized test data. I will also include a written description of three observable trends based on the data. This analysis will be found at the bottom of this Readme.
 
 # District Summary
 In this portion, I will perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
