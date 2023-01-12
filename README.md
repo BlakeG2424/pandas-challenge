@@ -53,7 +53,7 @@ Average reading score
 --Math Scores by Grade
 --Reading Scores by Grade
 
-# In this section i will create two tables (Scores by School Spending,Scores by School Size) 
+# In this section, I will create three tables (Scores by School Spending, Scores by School Size, Scores by School Type) 
 Scores by School Spending:
 Create a table that breaks down school performance based on average spending ranges (per student).
 
@@ -70,8 +70,8 @@ Average reading score
 % overall passing (the percentage of students who passed math AND reading)
 
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+Create a DataFrame called type_summary that breaks down school performace based on school types
 
-# Create a table showing 'Scores by School Type'
 
 # Analysis
 If you look closely at the "Scores by School Spending" table, we notice that the district schools are spending more money of their budget per student than the charter schools. While this is true, the charter schools still have a higher overall passing rate.
